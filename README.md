@@ -1,42 +1,29 @@
-# Befehlsreferenz
+# Berufsfachschule BBB: Innovatives Lernen und Lehren
 
-## Terminal-Befehle
+Die **Berufsfachschule BBB** zeichnet sich als eine führende Institution für innovatives Lernen und Lehren aus. Mit einer klaren Strategie verfolgt sie das Ziel, zu den Spitzenreitern in diesem Bereich zu gehören. Die Schule setzt seit Jahren erfolgreich auf ein wegweisendes Learning Management System.
 
-- `pwd`: Zeigt den aktuellen Pfad an.
-- `cp Quelldatei Zielverzeichnis`: Kopiert eine Datei in ein anderes Verzeichnis.
-- `mv AlteDatei NeuerName`: Benennt eine Datei um.
-- `rm Dateiname`: Löscht eine Datei.
-- `chmod Berechtigungen Dateiname`: Ändert die Dateiberechtigungen.
+## Schüler und Lehrer im Fokus
 
-## Netzwerkbefehle
+Mit stolzen **2400 Lernenden** aus dem technisch-industriellen und gewerblichen Bereich und einem engagierten Team von **120 Lehrpersonen** unterstützt die BBB ihre Schülerinnen und Schüler beim Einstieg in die Berufswelt.
 
-- `ping Zieladresse`: Überprüft die Erreichbarkeit einer Adresse.
-- `nslookup Domain`: Löst den DNS-Namen in die IP-Adresse auf.
-- `curl URL`: Lädt den Inhalt einer URL herunter.
-- `traceroute Zieladresse`: Verfolgt den Weg zu einer Adresse.
+### Vorbereitung auf die Zukunft
 
-## Systeminformationen
+Etwa **500 Lernende** bereiten sich an der technischen BM 1 und BM 2 sowie an der vierjährigen BM Wirtschaft Mediamatik/Informatik intensiv auf ein Studium an der Fachhochschule vor.
 
-- `uname -a`: Zeigt Informationen zum Betriebssystem an.
-- `df -h`: Zeigt die Festplattenbelegung an.
-- `top`: Zeigt laufende Prozesse an.
-- `free -m`: Zeigt den freien Arbeitsspeicher an.
+## Termine und Ferien
 
-## Docker-Befehle
+Die Ferienpläne und schulfreien Tage (Feiertage) der Berufsfachschule BBB in Baden sind [hier](#) verfügbar.
 
-- `docker run Image`: Startet einen Docker-Container.
-- `docker ps`: Zeigt laufende Container an.
-- `docker exec -it Container bash`: Öffnet eine interaktive Shell in einem laufenden Container.
-- `docker-compose up`: Startet Dienste gemäß der Docker Compose-Datei.
+## Stundenpläne im Blick
 
-## Versionskontrolle
+Mit nur wenigen Klicks kannst du auf der offiziellen [BBB-Website](#) deinen aktuellen Stundenplan einsehen. Wähle einfach deinen Beruf und deine Klasse aus.
 
-- `svn checkout Repository-URL`: Klont ein SVN-Repository.
-- `svn update`: Aktualisiert das Arbeitsverzeichnis mit den neuesten Änderungen.
+## Modern und Marktorientiert
 
-## Weitere Tools
+Die BBB ist nicht nur eine Bildungseinrichtung, sondern eine moderne und innovative Berufsfachschule mit ausgeprägter Dienstleistungsbereitschaft und starker Marktorientierung.
 
-- `grep Muster Dateiname`: Sucht nach einem Muster in einer Datei.
-- `find Startverzeichnis -name Dateiname`: Sucht nach Dateien im Dateisystem.
-- `awk 'Muster' Dateiname`: Verarbeitet und extrahiert Text.
+## Besuche uns!
 
+Du bist herzlich eingeladen, die Schule persönlich zu besuchen! Hier findest du den Lageplan und alle Anfahrtsmöglichkeiten [hier](#).
+
+Entdecke die Welt des innovativen Lernens an der Berufsfachschule BBB!
