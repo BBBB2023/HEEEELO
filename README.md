@@ -12,7 +12,7 @@ Etwa **500 Lernende** bereiten sich an der technischen BM 1 und BM 2 sowie an de
 
 ## Termine und Ferien
 
-Die Ferienpläne und schulfreien Tage (Feiertage) der Berufsfachschule BBB in Baden sind [hier](#) verfügbar.
+Die Ferienpläne und schulfreien Tage (Feiertage) der Berufsfachschule BBB in Baden sind [auf der Webseite der BBB](https://www.bbbaden.ch/ueber-uns/termine/). verfügbar.
 
 ## Stundenpläne im Blick
 
@@ -20,13 +20,13 @@ Mit nur wenigen Klicks kannst du auf der offiziellen [Stundenplan der BBB](https
 
 ## Vom besten Schüler der BBB den Stundenplan in einer Tabelle
 
-| Tag | Fächer             | Zeit           | Lehrperson | Zimmer | Bemerkung |
-|-----|--------------------|----------------|------------|--------|-----------|
-| Mi  | Allgemeinbildung   | 07:30 – 08:15  | Weber T.   | B 322  |           |
-|     | Sport              | 08:35 – 09:35  | Deon S.    | SH 2   |           |
-|     | Allgemeinbildung   | 10:00 – 11:40  | Weber T.   | B 322  |           |
-|     | Englisch           | 13:10 – 14:50  | Bucefari L.| B 526  |           |
-|     | Informatik         | 15:00 – 17:35  | Ueltschi S.| B 412  |           |
+| Tag | Fächer             | Zeit           | Lehrperson | Zimmer |
+|-----|--------------------|----------------|------------|--------|
+| Mi  | Allgemeinbildung   | 07:30 – 08:15  | Weber T.   | B 322  |
+|     | Sport              | 08:35 – 09:35  | Deon S.    | SH 2   |
+|     | Allgemeinbildung   | 10:00 – 11:40  | Weber T.   | B 322  |
+|     | Englisch           | 13:10 – 14:50  | Bucefari L.| B 526  |
+|     | Informatik         | 15:00 – 17:35  | Ueltschi S.| B 412  |
 
 ## Modern und Marktorientiert
 
@@ -34,7 +34,7 @@ Die BBB ist nicht nur eine Bildungseinrichtung, sondern eine moderne und innovat
 
 ## Besuche uns!
 
-Du bist herzlich eingeladen, die Schule persönlich zu besuchen! Hier findest du den Lageplan und alle Anfahrtsmöglichkeiten [hier](#).
+Weitere Informationen und Kontaktmöglichkeiten findest du [auf der Kontaktseite der BBB](https://www.bbbaden.ch/kontakt/).
 
 Entdecke die Welt des innovativen Lernens an der Berufsfachschule BBB!
 
