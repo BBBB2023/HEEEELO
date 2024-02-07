@@ -18,7 +18,8 @@ Die Ferienpläne und schulfreien Tage (Feiertage) der Berufsfachschule BBB in Ba
 
 Mit nur wenigen Klicks kannst du auf der offiziellen [Stundenplan der BBB](https://www.bbbaden.ch/stundenplan-bbb/) deinen aktuellen Stundenplan einsehen. Wähle einfach deinen Beruf und deine Klasse aus.
 
-Vom besten Schüler der BBB den Stundenplan in einer Tabelle
+## Vom besten Schüler der BBB den Stundenplan in einer Tabelle
+
 | Tag | Fächer             | Zeit           | Lehrperson | Zimmer | Bemerkung |
 |-----|--------------------|----------------|------------|--------|-----------|
 | Mi  | Allgemeinbildung   | 07:30 – 08:15  | Weber T.   | B 322  |           |
